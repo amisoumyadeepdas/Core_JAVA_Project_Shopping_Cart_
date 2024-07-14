@@ -43,7 +43,7 @@ This repository contains two versions of a Shopping Cart application implemented
 
 ### Create Product
 
-![Create Product](screenshots/create_product.png)
+![Create Product](https://github.com/user-attachments/assets/f7c8c559-6586-4e9c-b701-3b5ab94532b1)
 
 ### View Products
 
