@@ -47,19 +47,19 @@ This repository contains two versions of a Shopping Cart application implemented
 
 ### View Products
 
-![View Products](screenshots/view_products.png)
+![View Products](https://github.com/user-attachments/assets/7b2644e6-c5fc-4ec4-bb95-5403a0229ba1)
 
 ### Update Product
 
-![Update Product](screenshots/update_product.png)
+![Update Product](https://github.com/user-attachments/assets/56fd19a0-9597-49a9-88a0-7ea3c7364ebc)
 
 ### Delete Product
 
-![Delete Product](screenshots/delete_product.png)
+![Delete Product](https://github.com/user-attachments/assets/547359c4-5c62-44c9-a2be-469125cb5742)
 
 ### View Orders
 
-![View Orders](screenshots/view_orders.png)
+![View Orders](https://github.com/user-attachments/assets/8fdf7061-975b-4cfe-8ae9-7833b30b493f)
 
 ---
 
