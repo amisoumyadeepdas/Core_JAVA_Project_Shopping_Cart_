@@ -40,7 +40,6 @@ This repository contains two versions of a Shopping Cart application implemented
 ### Dashboard
 
 ![Dashboard](![image](https://github.com/user-attachments/assets/cb31750f-f694-4ec8-9956-663892c6f48b)
-)
 
 ### Create Product
 
